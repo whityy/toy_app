@@ -6,7 +6,7 @@ gem 'rails', '4.2.1'
 
 # Use mongo
 gem 'mongo'
-gem 'mongo_mapper'
+gem 'mongoid', '~> 4.0.1'
 gem 'bson_ext'
 
 # Use SCSS for stylesheets
